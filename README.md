@@ -1,4 +1,4 @@
-# Computer Graphics Fundamentals
+# Fundamentals of Computer Graphics
 
 This subject focused on modeling and creating animations with [Blender](https://www.blender.org/).
 
